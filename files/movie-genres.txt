@@ -109,7 +109,6 @@ Detective fiction, 340
 Disaster, 287
 Docudrama, 420
 Documentary, 5630
-Dogme 95, 28
 Domestic Comedy, 213
 Doomsday film, 122
 Drama, 34007
@@ -122,9 +121,6 @@ Ensemble Film, 453
 Environmental Science, 34
 Epic, 278
 Epic Western, 18
-Erotic Drama, 156
-Erotic thriller, 209
-Erotica, 316
 Escape Film, 56
 Essay Film, 26
 Existentialism, 36
@@ -161,7 +157,6 @@ Future noir, 33
 Gangster Film, 428
 Gay, 289
 Gay Interest, 287
-Gay pornography, 73
 Gay Themed, 357
 Gender Issues, 76
 Giallo, 35
@@ -262,8 +257,6 @@ Political Documetary, 2
 Political drama, 799
 Political satire, 102
 Political thriller, 242
-Pornographic movie, 317
-Pornography, 17
 Pre-Code, 180
 Prison, 131
 Prison escape, 2
@@ -322,7 +315,6 @@ Sports, 1206
 Spy, 474
 Stand-up comedy, 93
 Star vehicle, 2
-Statutory rape, 1
 Steampunk, 35
 Stoner film, 52
 Stop motion, 173
